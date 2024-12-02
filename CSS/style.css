@@ -1,0 +1,47 @@
+h1{
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 40px;
+    background-color: rgb(225, 230, 235);
+   
+}
+
+header{
+
+    font-family: Arial , Helvetica, sans-serif;
+
+}
+article{
+    font-size: 20;
+
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+    text-align: justify;
+    background-color: rgb(214, 235, 228) ;
+    max-width: 100% vh;
+    padding: 50px;
+}
+
+
+img, video, audio{
+   width: 80%;
+   border-radius: 20px;
+   margin-bottom: 5px;
+   padding: 60px;
+}
+
+video{
+
+}
+
+audio{
+
+}
+footer{
+    text-align: center;
+}
